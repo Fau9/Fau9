@@ -9,8 +9,8 @@
 <p align="center">Trabalhe para ser quem você anseia ser <br><br> Sou consultor de sistema que ama aprender e está aprendendo cada vez mais sobre o universo da tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-fau9.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Fau9&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-Fau9.vercel.app/api/top-langs/?username=Fau9&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
