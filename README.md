@@ -22,7 +22,7 @@
 
 #### Main Stack:
 
-![Zendesk Admin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fzendesk%2Fbadge%2Fzendesk-support-administrator-expert-i&psig=AOvVaw0b5TUJZsi0GiHAz5w5-3jb&ust=1723829937581000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCe5ZbF94cDFQAAAAAdAAAAABAI)&nbsp;
+![Zendesk Admin](https://img.shields.io/badge/Zendesk%20Admin%20Expert-8A2BE2)&nbsp;
 
 
 
