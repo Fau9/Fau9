@@ -1,7 +1,10 @@
+<!--  imagem banner do começo
+
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
 &nbsp;&nbsp;&nbsp;
 
+-->
 
 <p align="center">Trabalhe para ser quem você anseia ser <br><br> Sou consultor de sistema que ama aprender e está aprendendo cada vez mais sobre o universo da tecnologia.</p>&nbsp;
 
